@@ -1,3 +1,4 @@
-# XPlus
+# XPlus | AutoGidas
 Programa padėsianti įvertinti mašinos kainos/kokybės santykį.
-Sveiki visi, maži ir dideli.
+
+- feat. Augis x Krl x Tevas. PROD by MaTorKa
