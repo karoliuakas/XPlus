@@ -31,3 +31,19 @@ C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\AutogidasTest\obj\Debug\AutogidasTe
 C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.csproj.CopyComplete
 C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.dll
 C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.pdb
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\AutogidasTest.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\AutogidasTest.pdb
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\AutoGidas.exe
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\AutoGidas.pdb
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\AutoGidas.exe.config
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.csprojAssemblyReference.cache
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.csproj.CopyComplete
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.dll
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\AutogidasTest\obj\Debug\AutogidasTest.pdb

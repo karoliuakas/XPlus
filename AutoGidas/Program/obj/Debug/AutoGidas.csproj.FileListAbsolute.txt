@@ -35,3 +35,12 @@ C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\Program\obj\Debug\AutoGidas.Propert
 C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\Program\obj\Debug\AutoGidas.csproj.GenerateResource.cache
 C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\Program\obj\Debug\AutoGidas.exe
 C:\Users\Augiz\Desktop\AutogidasV3\AutoGidas\Program\obj\Debug\AutoGidas.pdb
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\bin\Debug\AutoGidas.exe.config
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\bin\Debug\AutoGidas.exe
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\bin\Debug\AutoGidas.pdb
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\obj\Debug\AutoGidas.csprojAssemblyReference.cache
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\obj\Debug\AutoGidas.Form1.resources
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\obj\Debug\AutoGidas.Properties.Resources.resources
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\obj\Debug\AutoGidas.csproj.GenerateResource.cache
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\obj\Debug\AutoGidas.exe
+C:\Users\Augiz\Documents\VIKO\3 Kursas\1 semestras\Programu sistemu inzinerija\XPlus\AutoGidas\Program\obj\Debug\AutoGidas.pdb
