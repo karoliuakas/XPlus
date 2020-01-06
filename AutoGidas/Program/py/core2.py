@@ -4,7 +4,7 @@ import requests
 URL = 'url'
 with open(URL) as f:
 	URL = str(f.readline())
-#URL = 'https://autogidas.lt/skelbimas/opel-omega-benzinasdujos--2000-m-universalas-0132673799.html'
+#URL = 'https://autogidas.lt/skelbimas/mazda-323-benzinas--1998-m-v-luxury-0132295235.html'
 
 
 page = requests.get(URL)
@@ -39,6 +39,8 @@ if "Variklis" in left:
 	myEngine = left.index("Variklis")
 	if len(right[myEngine]) > 10:
 		myEngine = int(right[myEngine][7:10])
+	else:
+		myEngine = -1
 else:
 	myEngine = -1
 
@@ -174,9 +176,21 @@ if notTacke == False and myMileage >= 0 and myEngine >=0 and noKaina == False:
 		mileage += int(dgt)
 	mileage = mileage//len(indices)
 	
+	otherCars = ((year/myYear + engine/myEngine + myMileage/mileage)/avgKaina) #nauja koeficiento formule
+	thisCar = ((myYear/year + myEngine/engine + mileage/myMileage)/int(kaina))
+	koef = round((thisCar/otherCars),2)
+	if('Be defektu' not in right):
+		koef = koef * 0.7
+	if('Desineje' in right):
+		koef = koef * 0.8
+	print(koef)
+
+	'''  sena koeficiento formule
 	x = int(kaina)/myYear + int(kaina)/(myEngine*10) + int(kaina)/(myMileage/100)
 	y = int(avgKaina)/year + int(avgKaina)/(engine*10) + int(avgKaina)/(mileage/100)
 	print(round(y/x,2))
+	'''
+	
 else:
 	print('-1')
 

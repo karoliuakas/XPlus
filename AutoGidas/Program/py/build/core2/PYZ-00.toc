@@ -1,4 +1,5 @@
-('C:\\Users\\Augiz\\Desktop\\AutoGidas\\Program\\py\\build\\core2\\PYZ-00.pyz',
+('C:\\Users\\Augiz\\Documents\\VIKO\\3 Kursas\\1 semestras\\Programu sistemu '
+ 'inzinerija\\XPlus\\AutoGidas\\Program\\py\\build\\core2\\PYZ-00.pyz',
  [('ssl', 'c:\\python\\lib\\ssl.py', 'PYMODULE'),
   ('calendar', 'c:\\python\\lib\\calendar.py', 'PYMODULE'),
   ('argparse', 'c:\\python\\lib\\argparse.py', 'PYMODULE'),
@@ -392,8 +393,8 @@
   ('base64', 'c:\\python\\lib\\base64.py', 'PYMODULE'),
   ('socket', 'c:\\python\\lib\\socket.py', 'PYMODULE'),
   ('os', 'c:\\python\\lib\\os.py', 'PYMODULE'),
-  ('stringprep', 'c:\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('_py_abc', 'c:\\python\\lib\\_py_abc.py', 'PYMODULE'),
+  ('stringprep', 'c:\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('requests',
    'c:\\python\\lib\\site-packages\\requests\\__init__.py',
    'PYMODULE'),

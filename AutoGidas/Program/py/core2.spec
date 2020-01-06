@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['core2.py'],
-             pathex=['C:\\Users\\Augiz\\Desktop\\AutoGidas\\Program\\py'],
+             pathex=['C:\\Users\\Augiz\\Documents\\VIKO\\3 Kursas\\1 semestras\\Programu sistemu inzinerija\\XPlus\\AutoGidas\\Program\\py'],
              binaries=[],
              datas=[],
              hiddenimports=[],
